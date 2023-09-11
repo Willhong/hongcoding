@@ -1,1 +1,6 @@
+---
+tags:
+  - Language
+---
+
 [[Django]]
