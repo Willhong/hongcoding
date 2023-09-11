@@ -1,5 +1,7 @@
 ---
-분야: Web3
+tags:
+  - Web3
+  - Language
 ---
 
 
