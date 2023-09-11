@@ -64,4 +64,3 @@ void main() async {
 }
 ```
 
-[https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Firebase_Logo.png/1200px-Firebase_Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Firebase_Logo.png/1200px-Firebase_Logo.png)
