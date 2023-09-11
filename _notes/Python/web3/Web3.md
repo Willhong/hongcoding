@@ -1,1 +1,1 @@
-[[Ethereum]]
+[[Ethereum 지갑 생성]]
